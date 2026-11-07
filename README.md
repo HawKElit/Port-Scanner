@@ -1,1 +1,1 @@
-Run in any python text editor / terminal. 
+Simply Run in any python text editor / terminal. 
